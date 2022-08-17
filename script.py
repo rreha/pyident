@@ -1,5 +1,4 @@
 import osl, pspos
-import pspnet
 
 osl.initGfx(osl.PF_8888, True)
 osl.setQuitOnLoadFailure(True)
